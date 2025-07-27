@@ -12,7 +12,8 @@ A simple, responsive, and modern Currency Converter built with HTML, JavaScript,
 
 ✅ Gradient background with card layout
 
-🚀 Live Demo
+🚀 Live Demo </br>
+https://ratesynchub.netlify.app/
 
 
 📸 Screenshot
